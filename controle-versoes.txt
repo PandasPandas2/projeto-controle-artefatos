@@ -1,0 +1,20 @@
+PROJETO: Sistema de Gestão de Estoque
+
+OBJETIVO:
+Desenvolver um sistema para controlar produtos,
+quantidades disponíveis e movimentações de estoque.
+
+ARTEFATOS DO PROJETO:
+- Documento de requisitos
+- Código-fonte
+- Documentação técnica
+- Diagramas do sistema
+
+CONTROLE DE VERSÕES:
+Versão 1.0
+
+ALTERAÇÃO REALIZADA:
+Criação do documento inicial do projeto.
+
+RESPONSÁVEL:
+PandasPandas2
